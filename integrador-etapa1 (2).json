@@ -1,0 +1,316 @@
+{
+  "title": {
+    "text": {
+      "headline": "Proyecto Integrador Etapa 1 — Filosofía y psicología pre-científica",
+      "text": "De la Antigüedad al umbral experimental (antes de 1879)."
+    }
+  },
+  "eras": [
+    {
+      "start_date": {
+        "year": "-600"
+      },
+      "end_date": {
+        "year": "1878"
+      },
+      "text": {
+        "headline": "Etapa 1: Filosofía y psicología pre-científica"
+      }
+    }
+  ],
+  "events": [
+    {
+      "start_date": {
+        "year": "-500"
+      },
+      "display_date": "ca. 500 a. C.",
+      "text": {
+        "headline": "Alcmeón de Crotona",
+        "text": "Propuso que <strong>el cerebro</strong> es la sede del pensamiento y la sensación, en contra del cardiocentrismo. Realizó observaciones anatómicas (nervios ópticos) y comparadas que anticipan un abordaje <em>naturalista</em> de la mente."
+      },
+      "group": "Antigüedad",
+      "background": {
+        "color": "#0EA5E9"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Monumento_a_Pitagora_ed_Alcmeone.jpg",
+        "caption": "Monumento a Pitágoras y Alcmeón. Wikimedia — CC BY-SA."
+      }
+    },
+    {
+      "start_date": {
+        "year": "-460"
+      },
+      "display_date": "460–370 a. C.",
+      "text": {
+        "headline": "Hipócrates",
+        "text": "La escuela hipocrática explicó fenómenos psíquicos sin recurso a lo sagrado (<em>Sobre la enfermedad sagrada</em>). Teoría de los <strong>humores</strong> y enfoque clínico que influirá en temperamentos y medicina por siglos."
+      },
+      "group": "Antigüedad",
+      "background": {
+        "color": "#0EA5E9"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hippocrates.jpg",
+        "caption": "Hipócrates (grabado). Wikimedia — Public Domain."
+      }
+    },
+    {
+      "start_date": {
+        "year": "-380"
+      },
+      "text": {
+        "headline": "Platón — Alma tripartita",
+        "text": "Modelo de <strong>alma racional–irascible–concupiscible</strong> (Fedro, República). La justicia del alma consiste en el gobierno de la razón; enlaza psicología, ética y política; conocimiento como reminiscencia."
+      },
+      "group": "Antigüedad",
+      "background": {
+        "color": "#0EA5E9"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Plato%3B_bust._Wellcome_M0005618.jpg",
+        "caption": "Busto de Platón (Wellcome). Wikimedia — CC BY 4.0."
+      }
+    },
+    {
+      "start_date": {
+        "year": "-350"
+      },
+      "text": {
+        "headline": "Aristóteles — De anima",
+        "text": "Psicología <em>hilomórfica</em>: el alma es la <strong>forma</strong> de un cuerpo vivo. Describe facultades (nutritiva, sensitiva, apetitiva, intelectiva), percepción, memoria y hábito; bases para teorías de <em>asociación</em>."
+      },
+      "group": "Antigüedad",
+      "background": {
+        "color": "#0EA5E9"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aristotle_Altemps_Inv8575.jpg",
+        "caption": "Busto de Aristóteles. Wikimedia — Public Domain."
+      }
+    },
+    {
+      "start_date": {
+        "year": "170"
+      },
+      "text": {
+        "headline": "Galenos",
+        "text": "Defendió la primacía del <strong>cerebro y nervios</strong> en sensación y movimiento; modelo de <em>pneuma</em> y ventrículos. Su tipología de <em>temperamentos</em> (colérico, flemático, etc.) marcó medicina y carácter por siglos."
+      },
+      "group": "Antigüedad",
+      "background": {
+        "color": "#0EA5E9"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Galen_detail.jpg",
+        "caption": "Galeno de Pérgamo. Wikimedia — Public Domain."
+      }
+    },
+    {
+      "start_date": {
+        "year": "397"
+      },
+      "text": {
+        "headline": "Agustín — Memoria y tiempo interior",
+        "text": "En las <em>Confesiones</em> explora la <strong>memoria</strong> y la <strong>conciencia del tiempo</strong> como experiencia interior. Aporta método <em>introspectivo</em> y una psicología de la voluntad y el deseo cristiano."
+      },
+      "group": "Edad Media",
+      "background": {
+        "color": "#8B5CF6"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Saint_Augustine_by_Philippe_de_Champaigne.jpg",
+        "caption": "San Agustín (Champaigne). Wikimedia — Public Domain."
+      }
+    },
+    {
+      "start_date": {
+        "year": "1021"
+      },
+      "text": {
+        "headline": "Ibn al-Haytham — Óptica",
+        "text": "En el <em>Kitāb al-Manāẓir</em> (Libro de Óptica) demostró que la visión opera por <strong>intromisión</strong> (la luz entra al ojo) y desarrolló <strong>diseños experimentales</strong> rigurosos: cámara oscura, variación y controles. Consideró la percepción como proceso <em>activo</em> que requiere <strong>inferencia</strong>. Su método sienta bases para la física y la psicología de la percepción."
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ibn_al-Haytham.png/900px-Ibn_al-Haytham.png",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ibn_al-Haytham.png/320px-Ibn_al-Haytham.png",
+        "caption": "Ibn al‑Haytham (Alhacén). Wikimedia Commons — CC BY-SA 4.0."
+      },
+      "group": "Edad Media",
+      "background": {
+        "color": "#8B5CF6"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1027"
+      },
+      "text": {
+        "headline": "Avicena — Hombre flotante",
+        "text": "Experimento mental del <strong>yo</strong> que se afirma sin sensaciones (autoconciencia). Distingue <em>sentidos internos</em> (fantasía, estimativa) y sistematiza facultades psíquicas; su <em>Canon</em> integra clínica y teoría."
+      },
+      "group": "Edad Media",
+      "background": {
+        "color": "#8B5CF6"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Avicenna%253B_anon.%2C_Wellcome_M0009341.jpg",
+        "caption": "Avicena (Wellcome). Wikimedia — CC BY 4.0."
+      }
+    },
+    {
+      "start_date": {
+        "year": "1270"
+      },
+      "text": {
+        "headline": "Tomás de Aquino",
+        "text": "Integra a Aristóteles: especies intencionales, <strong>intelecto agente/paciente</strong>, unidad sustancial alma–cuerpo. Explica conocimiento, hábitos y pasiones dentro de una antropología teológica escolástica."
+      },
+      "group": "Edad Media",
+      "background": {
+        "color": "#8B5CF6"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Aquinas_by_Fra_Bartolommeo.jpg",
+        "caption": "Tomás de Aquino (Fra Bartolommeo). Wikimedia — Public Domain."
+      }
+    },
+    {
+      "start_date": {
+        "year": "1649"
+      },
+      "text": {
+        "headline": "Descartes — Dualismo y reflejo",
+        "text": "Dualismo <strong>res cogitans / res extensa</strong>. Describe <em>reflejos</em> y fisiología mecanicista; sitúa la glándula pineal como punto de interacción; inaugura el problema mente–cuerpo moderno."
+      },
+      "group": "Moderna temprana",
+      "background": {
+        "color": "#10B981"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Utrecht_Weenix_Descartes.JPG",
+        "caption": "René Descartes (Weenix). Wikimedia — Public Domain."
+      }
+    },
+    {
+      "start_date": {
+        "year": "1651"
+      },
+      "text": {
+        "headline": "Hobbes — Leviatán",
+        "text": "Materialismo mecanicista: pensamiento e <strong>imaginación</strong> como movimientos del cuerpo. Lenguaje como cómputo; psicología de apetitos y aversiones que fundamenta su teoría política."
+      },
+      "group": "Moderna temprana",
+      "background": {
+        "color": "#10B981"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Hobbes_by_John_Michael_Wright.jpg",
+        "caption": "Thomas Hobbes (Wright). Wikimedia — Public Domain."
+      }
+    },
+    {
+      "start_date": {
+        "year": "1690"
+      },
+      "text": {
+        "headline": "Locke — Tabula rasa",
+        "text": "La mente nace como <strong>tabla rasa</strong>. Las ideas provienen de sensación y reflexión; se combinan en ideas complejas; énfasis en <em>asociación</em> e identidad personal."
+      },
+      "group": "Moderna temprana",
+      "background": {
+        "color": "#10B981"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Godfrey_Kneller_-_Portrait_of_John_Locke_%28Hermitage%29.jpg",
+        "caption": "John Locke (Kneller). Wikimedia — Public Domain."
+      }
+    },
+    {
+      "start_date": {
+        "year": "1739"
+      },
+      "text": {
+        "headline": "Hume — Impresiones e ideas",
+        "text": "Todo contenido mental deriva de <strong>impresiones</strong>; las <em>ideas</em> son copias debilitadas. La causalidad es <em>hábito</em>, no necesidad; el yo es un <em>haz</em> de percepciones conectadas."
+      },
+      "group": "Ilustración",
+      "background": {
+        "color": "#F59E0B"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Allan_Ramsay_-_David_Hume%2C_1711_-_1776._Historian_and_philosopher_-_Google_Art_Project.jpg",
+        "caption": "David Hume (Ramsay). Wikimedia — Public Domain."
+      }
+    },
+    {
+      "start_date": {
+        "year": "1787"
+      },
+      "text": {
+        "headline": "Kant — Crítica de la razón pura",
+        "text": "Conocimiento como síntesis de <strong>intuiciones a priori</strong> (espacio/tiempo) y <strong>categorías</strong>. Delimita el alcance de la psicología racional y funda condiciones de posibilidad de la experiencia."
+      },
+      "group": "Ilustración",
+      "background": {
+        "color": "#F59E0B"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Immanuel_Kant_%28painted_portrait%29.jpg",
+        "caption": "Immanuel Kant. Wikimedia — Public Domain."
+      }
+    },
+    {
+      "start_date": {
+        "year": "1834"
+      },
+      "text": {
+        "headline": "Ernst Weber — Psicofísica",
+        "text": "Cuantifica la sensación: <strong>diferencia apenas perceptible</strong> y ley fraccional (Weber). Metodologías experimentales (dos puntos, pesos) que vinculan estímulos físicos y experiencia."
+      },
+      "group": "Proto-científica",
+      "background": {
+        "color": "#64748B"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ernst_Heinrich_Weber%2C_1795-1878%2C_head-and-shoulders_portrait%2C_facing_front_LCCN2006679035.jpg",
+        "caption": "Ernst H. Weber. Library of Congress — Public Domain."
+      }
+    },
+    {
+      "start_date": {
+        "year": "1860"
+      },
+      "text": {
+        "headline": "Gustav Fechner — Elementos de psicofísica",
+        "text": "Formula la relación <strong>logarítmica</strong> entre estímulo y sensación; consolida la <em>psicofísica</em> como ciencia. Une medición, método y filosofía de mente–cuerpo."
+      },
+      "group": "Proto-científica",
+      "background": {
+        "color": "#64748B"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gustav_Fechner.jpg",
+        "caption": "Gustav T. Fechner. Wikimedia — Public Domain."
+      }
+    },
+    {
+      "start_date": {
+        "year": "1850"
+      },
+      "display_date": "1850s",
+      "text": {
+        "headline": "H. von Helmholtz — Percepción y nervio",
+        "text": "Mide la <strong>velocidad de conducción nerviosa</strong>; teoría tricromática de color; <em>inferencia inconsciente</em> en percepción. Instrumentación rigurosa que inspira la psicología experimental."
+      },
+      "group": "Proto-científica",
+      "background": {
+        "color": "#64748B"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hermann_von_Helmholtz_by_Ludwig_Knaus.jpg",
+        "caption": "Hermann von Helmholtz (Knaus). Wikimedia — Public Domain."
+      }
+    }
+  ]
+}
