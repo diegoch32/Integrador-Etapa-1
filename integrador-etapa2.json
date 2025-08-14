@@ -1,3 +1,4 @@
+{
   "title": {
     "text": {
       "headline": "Proyecto Integrador Etapa 2 — Psicología en los siglos XIX y XX",
@@ -6,52 +7,51 @@
   },
   "eras": [
     {
-      "start_date": {"year": "1860"},
-      "end_date": {"year": "1910"},
-      "text": {"headline": "Fundaciones experimentales"},
-      "background": {"color": "#0EA5E9"}
+      "start_date": { "year": "1860" },
+      "end_date": { "year": "1910" },
+      "text": { "headline": "Fundaciones experimentales" },
+      "background": { "color": "#0EA5E9" }
     },
     {
-      "start_date": {"year": "1895"},
-      "end_date": {"year": "1939"},
-      "text": {"headline": "Psicoanálisis y primeras clínicas"},
-      "background": {"color": "#8B5CF6"}
+      "start_date": { "year": "1895" },
+      "end_date": { "year": "1939" },
+      "text": { "headline": "Psicoanálisis y primeras clínicas" },
+      "background": { "color": "#8B5CF6" }
     },
     {
-      "start_date": {"year": "1913"},
-      "end_date": {"year": "1960"},
-      "text": {"headline": "Conductismo y psicología aplicada"},
-      "background": {"color": "#10B981"}
+      "start_date": { "year": "1913" },
+      "end_date": { "year": "1960" },
+      "text": { "headline": "Conductismo y psicología aplicada" },
+      "background": { "color": "#10B981" }
     },
     {
-      "start_date": {"year": "1910"},
-      "end_date": {"year": "1945"},
-      "text": {"headline": "Gestalt y fenomenología"},
-      "background": {"color": "#F59E0B"}
+      "start_date": { "year": "1910" },
+      "end_date": { "year": "1945" },
+      "text": { "headline": "Gestalt y fenomenología" },
+      "background": { "color": "#F59E0B" }
     },
     {
-      "start_date": {"year": "1950"},
-      "end_date": {"year": "1970"},
-      "text": {"headline": "Humanismo"},
-      "background": {"color": "#EC4899"}
+      "start_date": { "year": "1950" },
+      "end_date": { "year": "1970" },
+      "text": { "headline": "Humanismo" },
+      "background": { "color": "#EC4899" }
     },
     {
-      "start_date": {"year": "1956"},
-      "end_date": {"year": "1990"},
-      "text": {"headline": "Revolución cognitiva y neurociencias"},
-      "background": {"color": "#64748B"}
+      "start_date": { "year": "1956" },
+      "end_date": { "year": "1990" },
+      "text": { "headline": "Revolución cognitiva y neurociencias" },
+      "background": { "color": "#64748B" }
     }
   ],
   "events": [
-    # Fundaciones experimentales
     {
-      "start_date": {"year": "1860"},
+      "start_date": { "year": "1860" },
       "text": {
         "headline": "Gustav Fechner — Elementos de psicofísica",
         "text": "Relación <strong>logarítmica</strong> entre estímulo y sensación; consolida la <em>psicofísica</em> como puente entre lo físico y lo mental, con métodos cuantitativos y umbrales."
       },
       "group": "Fundaciones experimentales",
-      "background": {"color": "#0EA5E9"},
+      "background": { "color": "#0EA5E9" },
       "media": {
         "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gustav_Fechner.jpg?width=900",
         "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Gustav_Fechner.jpg?width=320",
@@ -59,14 +59,14 @@
       }
     },
     {
-      "start_date": {"year": "1879"},
+      "start_date": { "year": "1879" },
       "display_date": "1879",
       "text": {
         "headline": "Wilhelm Wundt — Laboratorio de Leipzig",
         "text": "Primer <strong>laboratorio de psicología experimental</strong>. Tiempos de reacción, psicofísica e introspección controlada; institucionaliza la disciplina."
       },
       "group": "Fundaciones experimentales",
-      "background": {"color": "#0EA5E9"},
+      "background": { "color": "#0EA5E9" },
       "media": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Wilhelm_Wundt.jpg/900px-Wilhelm_Wundt.jpg",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Wilhelm_Wundt.jpg/320px-Wilhelm_Wundt.jpg",
@@ -74,13 +74,13 @@
       }
     },
     {
-      "start_date": {"year": "1885"},
+      "start_date": { "year": "1885" },
       "text": {
         "headline": "Hermann Ebbinghaus — Memoria y olvido",
         "text": "Medición pionera de la memoria con <em>sílabas sin sentido</em>; curvas de <strong>aprendizaje y olvido</strong>; introduce el método de ahorro y diseño intra-sujeto."
       },
       "group": "Fundaciones experimentales",
-      "background": {"color": "#0EA5E9"},
+      "background": { "color": "#0EA5E9" },
       "media": {
         "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Zeitschrift%20fur%20Psychologie%2C%201909%3B%20Herman%20Ebbinghaus.%20Wellcome%20L0003734.jpg?width=900",
         "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Zeitschrift%20fur%20Psychologie%2C%201909%3B%20Herman%20Ebbinghaus.%20Wellcome%20L0003734.jpg?width=320",
@@ -88,13 +88,13 @@
       }
     },
     {
-      "start_date": {"year": "1890"},
+      "start_date": { "year": "1890" },
       "text": {
         "headline": "William James — Principios de psicología",
         "text": "Desarrolla el <strong>funcionalismo</strong>, concibe la conciencia como <em>corriente</em>, introduce hábitos y emociones (James–Lange); puente entre filosofía y ciencia."
       },
       "group": "Fundaciones experimentales",
-      "background": {"color": "#0EA5E9"},
+      "background": { "color": "#0EA5E9" },
       "media": {
         "url": "https://commons.wikimedia.org/wiki/Special:FilePath/William%20James%20in%201890s.jpg?width=900",
         "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/William%20James%20in%201890s.jpg?width=320",
@@ -102,29 +102,27 @@
       }
     },
     {
-      "start_date": {"year": "1905"},
+      "start_date": { "year": "1905" },
       "text": {
         "headline": "Alfred Binet — Escala Binet–Simon",
         "text": "Primera <strong>prueba de inteligencia</strong> para uso escolar; introduce <em>edad mental</em> y evaluación estandarizada con fines pedagógicos."
       },
       "group": "Fundaciones experimentales",
-      "background": {"color": "#0EA5E9"},
+      "background": { "color": "#0EA5E9" },
       "media": {
         "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Binet.jpg?width=900",
         "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Binet.jpg?width=320",
         "caption": "Alfred Binet. Wikimedia — Dominio público."
       }
     },
-
-    # Conductismo y aplicada
     {
-      "start_date": {"year": "1903"},
+      "start_date": { "year": "1903" },
       "text": {
         "headline": "Iván Pávlov — Reflejo condicionado",
         "text": "Describe el <strong>condicionamiento clásico</strong> (salivación condicionada), metodología controlada y aparato experimental que marcaron la psicología fisiológica."
       },
       "group": "Conductismo y psicología aplicada",
-      "background": {"color": "#10B981"},
+      "background": { "color": "#10B981" },
       "media": {
         "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Petrovich%20Pavlov%20-%201895.jpg?width=900",
         "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Petrovich%20Pavlov%20-%201895.jpg?width=320",
@@ -132,13 +130,13 @@
       }
     },
     {
-      "start_date": {"year": "1911"},
+      "start_date": { "year": "1911" },
       "text": {
         "headline": "Edward L. Thorndike — Ley del efecto",
-        "text": "Aprendizaje por <em>ensayo y error</em> en cajas‑problema; la <strong>ley del efecto</strong> formaliza el refuerzo como principio básico del comportamiento."
+        "text": "Aprendizaje por <em>ensayo y error</em> en cajas-problema; la <strong>ley del efecto</strong> formaliza el refuerzo como principio básico del comportamiento."
       },
       "group": "Conductismo y psicología aplicada",
-      "background": {"color": "#10B981"},
+      "background": { "color": "#10B981" },
       "media": {
         "url": "https://commons.wikimedia.org/wiki/Special:FilePath/PSM%20V80%20D211%20Edward%20Lee%20Thorndike.png?width=900",
         "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/PSM%20V80%20D211%20Edward%20Lee%20Thorndike.png?width=320",
@@ -146,13 +144,13 @@
       }
     },
     {
-      "start_date": {"year": "1913"},
+      "start_date": { "year": "1913" },
       "text": {
         "headline": "John B. Watson — Manifiesto conductista",
-        "text": "Programa para una psicología <strong>objetiva</strong> de la conducta, anti‑introspectiva; predicción y control como metas, método experimental con estímulo‑respuesta."
+        "text": "Programa para una psicología <strong>objetiva</strong> de la conducta, anti-introspectiva; predicción y control como metas, método experimental con estímulo-respuesta."
       },
       "group": "Conductismo y psicología aplicada",
-      "background": {"color": "#10B981"},
+      "background": { "color": "#10B981" },
       "media": {
         "url": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20Broadus%20Watson.JPG?width=900",
         "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20Broadus%20Watson.JPG?width=320",
@@ -160,14 +158,14 @@
       }
     },
     {
-      "start_date": {"year": "1935"},
+      "start_date": { "year": "1935" },
       "display_date": "1935–1955",
       "text": {
         "headline": "David Wechsler — Baterías WAIS/WISC",
         "text": "Diseña pruebas de <strong>inteligencia</strong> con puntuaciones compuestas e índices, integrando <em>subtests</em> verbales y de ejecución; estándares clínicos hasta hoy."
       },
       "group": "Conductismo y psicología aplicada",
-      "background": {"color": "#10B981"},
+      "background": { "color": "#10B981" },
       "media": {
         "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr.%20David%20Wechsler.jpg?width=900",
         "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr.%20David%20Wechsler.jpg?width=320",
@@ -175,13 +173,13 @@
       }
     },
     {
-      "start_date": {"year": "1953"},
+      "start_date": { "year": "1953" },
       "text": {
         "headline": "B. F. Skinner — Ciencia y conducta",
         "text": "Desarrolla el <strong>condicionamiento operante</strong>, programas de refuerzo y <em>análisis experimental de la conducta</em>; aplicaciones educativas y clínicas."
       },
       "group": "Conductismo y psicología aplicada",
-      "background": {"color": "#10B981"},
+      "background": { "color": "#10B981" },
       "media": {
         "url": "https://commons.wikimedia.org/wiki/Special:FilePath/B.F.%20Skinner%20at%20Harvard%20circa%201950.jpg?width=900",
         "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/B.F.%20Skinner%20at%20Harvard%20circa%201950.jpg?width=320",
@@ -189,45 +187,41 @@
       }
     },
     {
-      "start_date": {"year": "1949"},
+      "start_date": { "year": "1949" },
       "text": {
         "headline": "D. O. Hebb — Organización del comportamiento",
         "text": "Propone la <strong>regla de Hebb</strong> (neuronas que se activan juntas, se conectan juntas) y redes celulares; base neuropsicológica del aprendizaje."
       },
       "group": "Revolución cognitiva y neurociencias",
-      "background": {"color": "#64748B"},
+      "background": { "color": "#64748B" },
       "media": {
         "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Donald%20O.%20Hebb%201978.jpg?width=900",
         "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Donald%20O.%20Hebb%201978.jpg?width=320",
         "caption": "Donald O. Hebb. Wikimedia — CC BY-SA."
       }
     },
-
-    # Psicometría / g
     {
-      "start_date": {"year": "1904"},
+      "start_date": { "year": "1904" },
       "text": {
         "headline": "Charles Spearman — Factor g",
         "text": "A partir de correlaciones entre pruebas, postula un <strong>factor general de inteligencia (g)</strong> y métodos estadísticos (correlaciones por rangos)."
       },
       "group": "Fundaciones experimentales",
-      "background": {"color": "#0EA5E9"},
+      "background": { "color": "#0EA5E9" },
       "media": {
         "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Correlations%20between%20mental%20tests.svg?width=900",
         "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Correlations%20between%20mental%20tests.svg?width=320",
         "caption": "Matriz de correlaciones asociada a <em>g</em> (ilustración). Wikimedia — CC BY-SA 4.0."
       }
     },
-
-    # Gestalt
     {
-      "start_date": {"year": "1912"},
+      "start_date": { "year": "1912" },
       "text": {
         "headline": "Max Wertheimer — Fenómeno φ",
         "text": "Demuestra la <strong>percepción del movimiento aparente</strong>; inaugura la <em>psicología de la Gestalt</em> y sus leyes de organización perceptual."
       },
       "group": "Gestalt y fenomenología",
-      "background": {"color": "#F59E0B"},
+      "background": { "color": "#F59E0B" },
       "media": {
         "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wertheimer.jpg?width=900",
         "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Wertheimer.jpg?width=320",
@@ -235,29 +229,27 @@
       }
     },
     {
-      "start_date": {"year": "1917"},
+      "start_date": { "year": "1917" },
       "text": {
         "headline": "Wolfgang Köhler — Insight en primates",
         "text": "Observa <strong>soluciones súbitas</strong> (insight) en chimpancés; evidencia organización de campo y crítica al <em>asociacionismo</em> mecánico."
       },
       "group": "Gestalt y fenomenología",
-      "background": {"color": "#F59E0B"},
+      "background": { "color": "#F59E0B" },
       "media": {
         "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wolfgang_K%C3%B6hler_fullface.jpg?width=900",
         "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Wolfgang_K%C3%B6hler_fullface.jpg?width=320",
         "caption": "Wolfgang Köhler. Wikimedia — Dominio público."
       }
     },
-
-    # Psicoanálisis
     {
-      "start_date": {"year": "1900"},
+      "start_date": { "year": "1900" },
       "text": {
         "headline": "Sigmund Freud — Interpretación de los sueños",
         "text": "Formula el <strong>inconsciente</strong>, la <em>asociación libre</em> y la teoría de la transferencia; clínica y metapsicología marcan la psicoterapia del siglo XX."
       },
       "group": "Psicoanálisis",
-      "background": {"color": "#8B5CF6"},
+      "background": { "color": "#8B5CF6" },
       "media": {
         "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sigmund%20Freud%20LIFE.jpg?width=900",
         "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Sigmund%20Freud%20LIFE.jpg?width=320",
@@ -265,30 +257,28 @@
       }
     },
     {
-      "start_date": {"year": "1930"},
+      "start_date": { "year": "1930" },
       "display_date": "1930s–1950s",
       "text": {
         "headline": "Jacques Lacan — Retorno a Freud",
         "text": "Relectura <strong>estructural</strong> del psicoanálisis: el <em>inconsciente está estructurado como un lenguaje</em>; nociones de <em>estadios del espejo</em>, <em>Real/Simbólico/Imaginario</em> y primacía del significante."
       },
       "group": "Psicoanálisis",
-      "background": {"color": "#8B5CF6"},
+      "background": { "color": "#8B5CF6" },
       "media": {
         "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lacan%20interne%20c.%201928.png?width=900",
         "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Lacan%20interne%20c.%201928.png?width=320",
         "caption": "Jacques Lacan (~1928). Wikimedia — CC BY-SA."
       }
     },
-
-    # Humanismo
     {
-      "start_date": {"year": "1951"},
+      "start_date": { "year": "1951" },
       "text": {
         "headline": "Carl Rogers — Terapia centrada en la persona",
         "text": "Propone una psicoterapia basada en <strong>empatía, congruencia y aceptación incondicional</strong>; modelo <em>humanista</em> y enfoque de crecimiento."
       },
       "group": "Humanismo",
-      "background": {"color": "#EC4899"},
+      "background": { "color": "#EC4899" },
       "media": {
         "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Rogers.jpg?width=900",
         "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Rogers.jpg?width=320",
@@ -296,30 +286,28 @@
       }
     },
     {
-      "start_date": {"year": "1954"},
+      "start_date": { "year": "1954" },
       "display_date": "1943/1954",
       "text": {
         "headline": "Abraham Maslow — Jerarquía de necesidades",
         "text": "Modelo motivacional en <strong>niveles</strong> (fisiológicas→autorrealización); inspira psicología <em>humanista</em> y gestión organizacional."
       },
       "group": "Humanismo",
-      "background": {"color": "#EC4899"},
+      "background": { "color": "#EC4899" },
       "media": {
         "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Maslow%20hierarchy%20of%20needs.jpg?width=900",
         "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Maslow%20hierarchy%20of%20needs.jpg?width=320",
         "caption": "Esquema de la jerarquía de Maslow. Wikimedia — CC BY-SA."
       }
     },
-
-    # Cognitiva y neuro
     {
-      "start_date": {"year": "1956"},
+      "start_date": { "year": "1956" },
       "text": {
         "headline": "George A. Miller — 7±2 y memoria",
         "text": "Fija un límite de <strong>capacidad</strong> de la memoria inmediata (7±2) y estimula la <em>codificación por agrupamiento</em>; hito de la revolución cognitiva."
       },
       "group": "Revolución cognitiva y neurociencias",
-      "background": {"color": "#64748B"},
+      "background": { "color": "#64748B" },
       "media": {
         "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cognitive%20science%20heptagram.svg?width=900",
         "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Cognitive%20science%20heptagram.svg?width=320",
@@ -327,13 +315,13 @@
       }
     },
     {
-      "start_date": {"year": "1959"},
+      "start_date": { "year": "1959" },
       "text": {
         "headline": "Noam Chomsky — Crítica al conductismo",
         "text": "Argumenta una <strong>gramática generativa</strong> con reglas abstractas e <em>innatismo</em>; cuestiona el aprendizaje por refuerzo del lenguaje."
       },
       "group": "Revolución cognitiva y neurociencias",
-      "background": {"color": "#64748B"},
+      "background": { "color": "#64748B" },
       "media": {
         "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Noam%20Chomsky%20portrait%202004.jpg?width=900",
         "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Noam%20Chomsky%20portrait%202004.jpg?width=320",
@@ -341,13 +329,13 @@
       }
     },
     {
-      "start_date": {"year": "1967"},
+      "start_date": { "year": "1967" },
       "text": {
         "headline": "Ulric Neisser — Psicología cognitiva",
         "text": "Define el programa <strong>cognitivista</strong>: representación, atención, memoria y percepción como <em>procesamiento de información</em>; integra evidencia experimental."
       },
       "group": "Revolución cognitiva y neurociencias",
-      "background": {"color": "#64748B"},
+      "background": { "color": "#64748B" },
       "media": {
         "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fr-Cognitive%20science%20heptagram.svg?width=900",
         "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Fr-Cognitive%20science%20heptagram.svg?width=320",
@@ -355,14 +343,14 @@
       }
     },
     {
-      "start_date": {"year": "1991"},
+      "start_date": { "year": "1991" },
       "display_date": "1990s",
       "text": {
         "headline": "fMRI — Neuroimagen funcional",
         "text": "La <strong>resonancia magnética funcional</strong> permite mapear actividad cerebral por cambios hemodinámicos; expande la investigación cognitiva y clínica."
       },
       "group": "Revolución cognitiva y neurociencias",
-      "background": {"color": "#64748B"},
+      "background": { "color": "#64748B" },
       "media": {
         "url": "https://commons.wikimedia.org/wiki/Special:FilePath/FMRI%20scan%20during%20working%20memory%20tasks.jpg?width=900",
         "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/FMRI%20scan%20during%20working%20memory%20tasks.jpg?width=320",
