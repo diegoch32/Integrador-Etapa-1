@@ -1,6 +1,3 @@
-# Build the corrected TimelineJS JSON for Etapa 2 with robust Wikimedia Special:FilePath URLs (900px & 320px).
-import json, textwrap, os, pandas as pd
-
 timeline = {
   "title": {
     "text": {
@@ -375,10 +372,3 @@ timeline = {
     }
   ]
 }
-
-# Save file
-out_path = "/mnt/data/integrador-etapa2.json"
-with open(out_path, "w", encoding="utf-8") as f:
-    json.dump(timeline, f, ensure_ascii=False, indent=2)
-
-out_path
