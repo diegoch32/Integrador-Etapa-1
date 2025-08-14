@@ -1,0 +1,458 @@
+{
+  "title": {
+    "text": {
+      "headline": "Proyecto Integrador Etapa 2 — Psicología en los siglos XIX y XX",
+      "text": "De las fundaciones experimentales a la revolución cognitiva y las neurociencias."
+    }
+  },
+  "eras": [
+    {
+      "start_date": {
+        "year": "1860"
+      },
+      "end_date": {
+        "year": "1910"
+      },
+      "text": {
+        "headline": "Fundaciones experimentales (1860–1910)"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1895"
+      },
+      "end_date": {
+        "year": "1939"
+      },
+      "text": {
+        "headline": "Psicoanálisis y primeras clínicas (1895–1939)"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1913"
+      },
+      "end_date": {
+        "year": "1960"
+      },
+      "text": {
+        "headline": "Conductismo y psicología aplicada (1913–1960)"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1910"
+      },
+      "end_date": {
+        "year": "1945"
+      },
+      "text": {
+        "headline": "Gestalt y fenomenología (1910–1945)"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1950"
+      },
+      "end_date": {
+        "year": "1970"
+      },
+      "text": {
+        "headline": "Humanismo (1950–1970)"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1956"
+      },
+      "end_date": {
+        "year": "1990"
+      },
+      "text": {
+        "headline": "Revolución cognitiva y neurociencias (1956–1990)"
+      }
+    }
+  ],
+  "events": [
+    {
+      "start_date": {
+        "year": "1860"
+      },
+      "text": {
+        "headline": "Fechner — Elementos de psicofísica",
+        "text": "Relaciona <strong>intensidad física</strong> y <strong>sensación</strong> mediante funciones logarítmicas; consolida la <em>medición</em> de la experiencia y abre la vía experimental. Introduce <em>métodos</em> (límites, ajuste) y distingue psicofísica <strong>externa</strong> e <strong>interna</strong>."
+      },
+      "group": "Fundaciones experimentales",
+      "background": {
+        "color": "#0EA5E9"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gustav_Fechner.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Gustav_Fechner.jpg?width=320",
+        "caption": "Gustav T. Fechner — Dominio público"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1879"
+      },
+      "display_date": "1879",
+      "text": {
+        "headline": "Wundt — Laboratorio de Leipzig",
+        "text": "Primer <strong>laboratorio de psicología experimental</strong>. Métodos controlados, <em>tiempos de reacción</em> y formación de investigadores; institucionaliza la disciplina. Desarrolla <strong>introspección experimental</strong> y funda <em>Philosophische Studien</em>."
+      },
+      "group": "Fundaciones experimentales",
+      "background": {
+        "color": "#0EA5E9"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm_Wundt.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm_Wundt.jpg?width=320",
+        "caption": "Wilhelm Wundt — Dominio público"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1885"
+      },
+      "text": {
+        "headline": "Ebbinghaus — Memoria y olvido",
+        "text": "Introduce listas sin sentido y curvas de <strong>aprendizaje</strong> y <strong>olvido</strong>. Pionero en medición rigurosa de procesos mnésicos. Mide <em>ahorro en reaprendizaje</em> y describe la <strong>curva de olvido</strong>."
+      },
+      "group": "Fundaciones experimentales",
+      "background": {
+        "color": "#0EA5E9"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hermann_Ebbinghaus.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Hermann_Ebbinghaus.jpg?width=320",
+        "caption": "Hermann Ebbinghaus — Dominio público"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1890"
+      },
+      "text": {
+        "headline": "William James — Principios de Psicología",
+        "text": "Define la conciencia como <strong>corriente</strong>; atención, hábito y emoción con enfoque <em>funcionalista</em> y aplicado a la vida. Propone la emoción <em>James–Lange</em> y el hábito como <strong>plasticidad</strong>."
+      },
+      "group": "Fundaciones experimentales",
+      "background": {
+        "color": "#0EA5E9"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/William_James_cph.3a04173.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/William_James_cph.3a04173.jpg?width=320",
+        "caption": "William James — Dominio público"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1898"
+      },
+      "text": {
+        "headline": "Thorndike — Aprendizaje instrumental",
+        "text": "<strong>Ley del efecto</strong> desde cajas-problema con gatos: respuestas seguidas de refuerzo se fortalecen. Base del <em>condicionamiento instrumental</em>. Introduce <strong>conexiones E–R</strong> y medición educativa."
+      },
+      "group": "Conductismo y aplicada",
+      "background": {
+        "color": "#10B981"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Edward_Thorndike.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Edward_Thorndike.jpg?width=320",
+        "caption": "Edward L. Thorndike — Dominio público"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1900"
+      },
+      "text": {
+        "headline": "Freud — La interpretación de los sueños",
+        "text": "Formula el método de la <strong>asociación libre</strong> y una <em>teoría del inconsciente</em>; los sueños como vía regia a los deseos. Plantea tópicas psíquicas y la <strong>transferencia</strong> en la clínica."
+      },
+      "group": "Psicoanálisis",
+      "background": {
+        "color": "#8B5CF6"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sigmund_Freud_1926.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Sigmund_Freud_1926.jpg?width=320",
+        "caption": "Sigmund Freud — Dominio público"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1903"
+      },
+      "text": {
+        "headline": "Pavlov — Condicionamiento clásico",
+        "text": "Describe <strong>reflejos condicionados</strong> (salivación anticipada). Estructura <em>adquisición</em>, <em>extinción</em> y <em>generalización</em>. Explora <strong>discriminación</strong> y <em>segundo orden</em>."
+      },
+      "group": "Conductismo y aplicada",
+      "background": {
+        "color": "#10B981"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ivan_Pavlov.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Ivan_Pavlov.jpg?width=320",
+        "caption": "Ivan P. Pavlov — Dominio público"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1904"
+      },
+      "text": {
+        "headline": "Spearman — Factor g",
+        "text": "Propone un <strong>factor general de inteligencia</strong> mediante análisis correlacional; inaugura la <em>psicometría factorial</em>. Modelo de <strong>dos factores</strong> (g y s) y base del análisis factorial."
+      },
+      "group": "Psicometría",
+      "background": {
+        "color": "#64748B"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles_Spearman.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles_Spearman.jpg?width=320",
+        "caption": "Charles Spearman — Dominio público"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1905"
+      },
+      "text": {
+        "headline": "Binet y Simon — Primera escala de inteligencia",
+        "text": "Desarrollan la escala para <strong>identificar necesidades educativas</strong>. Introducen <em>edad mental</em> y pruebas prácticas. Revisión 1908–1911 y foco en <strong>uso escolar</strong> (no esencialismo del “g”)."
+      },
+      "group": "Psicometría",
+      "background": {
+        "color": "#64748B"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alfred_Binet.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Alfred_Binet.jpg?width=320",
+        "caption": "Alfred Binet — Dominio público"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1912"
+      },
+      "text": {
+        "headline": "Wertheimer — Fenómeno phi",
+        "text": "Muestra movimiento aparente y funda la <strong>psicología de la Gestalt</strong>: el todo es <em>más que</em> la suma de partes. Formula <strong>leyes de organización</strong> (proximidad, similitud, cierre)."
+      },
+      "group": "Gestalt",
+      "background": {
+        "color": "#F59E0B"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Max_Wertheimer_1904.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Max_Wertheimer_1904.jpg?width=320",
+        "caption": "Max Wertheimer — Dominio público"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1913"
+      },
+      "text": {
+        "headline": "Watson — Manifiesto conductista",
+        "text": "Programa de una psicología como <strong>ciencia de la conducta</strong>, objetiva y predictiva; rechazo del <em>introspeccionismo</em>. Difunde aplicaciones en <strong>publicidad</strong> e industria."
+      },
+      "group": "Conductismo y aplicada",
+      "background": {
+        "color": "#10B981"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/John_B_Watson.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/John_B_Watson.jpg?width=320",
+        "caption": "John B. Watson — Dominio público"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1917"
+      },
+      "text": {
+        "headline": "Köhler — Insight en primates",
+        "text": "Desde Tenerife describe <strong>solución por <em>insight</em></strong> y <em>reorganización perceptual</em>; apoya la visión Gestalt. Postula <strong>isomorfismo</strong> psicofísico y critica el atomismo."
+      },
+      "group": "Gestalt",
+      "background": {
+        "color": "#F59E0B"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wolfgang_K%C3%B6hler_fullface.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Wolfgang_K%C3%B6hler_fullface.jpg?width=320",
+        "caption": "Wolfgang Köhler — Dominio público"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1939"
+      },
+      "text": {
+        "headline": "Wechsler — WAIS",
+        "text": "Construye escalas con <strong>puntuaciones tipificadas</strong> y subpruebas verbales/de ejecución; estándar de la evaluación clínica. Define <strong>CI de desviación</strong> y perfiles de puntos fuertes/débiles."
+      },
+      "group": "Psicometría",
+      "background": {
+        "color": "#64748B"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/David_Wechsler.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/David_Wechsler.jpg?width=320",
+        "caption": "David Wechsler — Dominio público"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1948"
+      },
+      "text": {
+        "headline": "Tolman — Mapas cognitivos",
+        "text": "Demuestra <strong>aprendizaje latente</strong> y <em>mapas cognitivos</em> en ratas; puente entre conductismo y enfoques cognitivos. Introduce <strong>variables intervinientes</strong> y meta de la conducta propositiva."
+      },
+      "group": "Conductismo y aplicada",
+      "background": {
+        "color": "#10B981"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Edward_C._Tolman.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Edward_C._Tolman.jpg?width=320",
+        "caption": "Edward C. Tolman — Dominio público"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1951"
+      },
+      "text": {
+        "headline": "Rogers — Terapia centrada en el cliente",
+        "text": "Propone relación terapéutica basada en <strong>empatía</strong>, <strong>congruencia</strong> y <em>aceptación incondicional</em>; base del humanismo clínico. Enfatiza <strong>autoactualización</strong> y clima facilitador."
+      },
+      "group": "Humanismo",
+      "background": {
+        "color": "#F43F5E"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Carl_Rogers.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Carl_Rogers.jpg?width=320",
+        "caption": "Carl R. Rogers — Dominio público"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1953"
+      },
+      "text": {
+        "headline": "Skinner — Ciencia y conducta humana",
+        "text": "Desarrolla el <strong>condicionamiento operante</strong>, <em>refuerzo</em>, <em>programas</em> y <em>modelado</em>; aplicaciones educativas y clínicas. Introduce la <strong>caja de Skinner</strong> y el análisis experimental."
+      },
+      "group": "Conductismo y aplicada",
+      "background": {
+        "color": "#10B981"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/B._F._Skinner_at_Harvard_circa_1950.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/B._F._Skinner_at_Harvard_circa_1950.jpg?width=320",
+        "caption": "B. F. Skinner — Dominio público"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1954"
+      },
+      "text": {
+        "headline": "Maslow — Motivación y autorrealización",
+        "text": "Plantea jerarquía de <strong>necesidades</strong> y la <em>autorrealización</em>; énfasis en potencial humano y salud psicológica. Introduce <strong>experiencias cumbre</strong> y crítica al reduccionismo."
+      },
+      "group": "Humanismo",
+      "background": {
+        "color": "#F43F5E"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Abraham_Maslow.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Abraham_Maslow.jpg?width=320",
+        "caption": "Abraham H. Maslow — Dominio público"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1956"
+      },
+      "text": {
+        "headline": "Miller — El mágico número 7±2",
+        "text": "Limites de la <strong>memoria de trabajo</strong> y <em>chunking</em>; cataliza la agenda de la <em>psicología cognitiva</em>. Subraya <strong>recodificación</strong> e inicia diálogos con teoría de la información."
+      },
+      "group": "Cognitiva y neuro",
+      "background": {
+        "color": "#22C55E"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/George_Armitage_Miller.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/George_Armitage_Miller.jpg?width=320",
+        "caption": "George A. Miller — Dominio público"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1966"
+      },
+      "display_date": "1966",
+      "text": {
+        "headline": "Lacan — Écrits y el retorno a Freud",
+        "text": "Relectura estructural del psicoanálisis: primacía del <strong>significante</strong>, <em>el inconsciente estructurado como un lenguaje</em>, y los registros <strong>Real–Simbólico–Imaginario</strong>. Aporta <em>objeto a</em>, <strong>estadio del espejo</strong>, y formalizaciones (matemas, nudos) en la clínica."
+      },
+      "group": "Psicoanálisis",
+      "background": {
+        "color": "#8B5CF6"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacques_Lacan.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacques_Lacan.jpg?width=320",
+        "caption": "Jacques Lacan — licencias abiertas"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1967"
+      },
+      "text": {
+        "headline": "Neisser — Psicología cognitiva",
+        "text": "Define el campo con enfoque en <strong>procesamiento de la información</strong>, percepción, atención y memoria en tareas realistas. Impulsa una <strong>ecología cognitiva</strong> y critica excesos de laboratorio."
+      },
+      "group": "Cognitiva y neuro",
+      "background": {
+        "color": "#22C55E"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ulric_Neisser.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Ulric_Neisser.jpg?width=320",
+        "caption": "Ulric Neisser — Dominio público"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1992"
+      },
+      "text": {
+        "headline": "fMRI — Imagen por resonancia magnética funcional",
+        "text": "La <strong>fMRI</strong> permite mapear actividad cerebral (BOLD) en vivo; integra psicología cognitiva y <em>neurociencias</em> experimentales. Primeros trabajos (Ogawa et al.) abren la vía a diseños por <strong>bloques</strong> y <strong>eventos</strong>."
+      },
+      "group": "Cognitiva y neuro",
+      "background": {
+        "color": "#22C55E"
+      },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Functional_MRI.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Functional_MRI.jpg?width=320",
+        "caption": "Imagen fMRI — licencias abiertas"
+      }
+    }
+  ]
+}
