@@ -68,8 +68,8 @@
       "group": "Fundaciones experimentales",
       "background": { "color": "#0EA5E9" },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Wilhelm_Wundt.jpg/900px-Wilhelm_Wundt.jpg",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Wilhelm_Wundt.jpg/320px-Wilhelm_Wundt.jpg",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm_Wundt.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm_Wundt.jpg?width=320",
         "caption": "Wilhelm Wundt. Wikimedia — Dominio público."
       }
     },
@@ -124,9 +124,9 @@
       "group": "Conductismo y psicología aplicada",
       "background": { "color": "#10B981" },
       "media": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Petrovich%20Pavlov%20-%201895.jpg?width=900",
-        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Petrovich%20Pavlov%20-%201895.jpg?width=320",
-        "caption": "Iván P. Pávlov. Wikimedia — Dominio público."
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Petrovich%20Pavlov.%20Photograph%20by%20Deschiens.%20Wellcome%20V0027006.jpg?width=900"",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Petrovich%20Pavlov.%20Photograph%20by%20Deschiens.%20Wellcome%20V0027006.jpg?width=320",
+        "caption": "Iván P. Pávlov (retrato, Wellcome). CC BY 4.0."
       }
     },
     {
@@ -237,8 +237,8 @@
       "group": "Gestalt y fenomenología",
       "background": { "color": "#F59E0B" },
       "media": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wolfgang_K%C3%B6hler_fullface.jpg?width=900",
-        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Wolfgang_K%C3%B6hler_fullface.jpg?width=320",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wolfgang%20K%C3%B6hler.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Wolfgang%20K%C3%B6hler.jpg?width=320",
         "caption": "Wolfgang Köhler. Wikimedia — Dominio público."
       }
     },
@@ -309,9 +309,9 @@
       "group": "Revolución cognitiva y neurociencias",
       "background": { "color": "#64748B" },
       "media": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cognitive%20science%20heptagram.svg?width=900",
-        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Cognitive%20science%20heptagram.svg?width=320",
-        "caption": "Heptagrama de ciencias cognitivas (ilustración). Wikimedia — CC BY-SA."
+        "url": "https://wordnet.princeton.edu/sites/g/files/toruqf2286/files/styles/3x4_750w_1000h/public/people/millerhires.jpg",
+        "thumbnail": "https://wordnet.princeton.edu/sites/g/files/toruqf2286/files/styles/3x4_750w_1000h/public/people/millerhires.jpg",
+        "caption": "George A. Miller (Princeton/WordNet). Foto de John T. Miller."
       }
     },
     {
@@ -323,9 +323,9 @@
       "group": "Revolución cognitiva y neurociencias",
       "background": { "color": "#64748B" },
       "media": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Noam%20Chomsky%20portrait%202004.jpg?width=900",
-        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Noam%20Chomsky%20portrait%202004.jpg?width=320",
-        "caption": "Noam Chomsky. Wikimedia — CC BY-SA."
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Noam_Chomsky_portrait_2017_retouched.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Noam_Chomsky_portrait_2017_retouched.jpg?width=320",
+        "caption": "Noam Chomsky, 2017. Wikimedia — CC BY-SA 4.0."
       }
     },
     {
