@@ -151,21 +151,6 @@
       }
     },
     {
-      "start_date": { "year": "1951" },
-      "display_date": "1951–1965",
-      "text": {
-        "headline": "Redes clínicas y formación en la región",
-        "text": "Se afianzan <strong>institutos, revistas y seminarios</strong> en Buenos Aires, Montevideo, Santiago y São Paulo. Circulan técnicas y se consolida la formación supervisada."
-      },
-      "group": "Fundaciones e institucionalización",
-      "background": { "color": "#0EA5E9" },
-      "media": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Books-aj.svg?width=900",
-        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Books-aj.svg?width=320",
-        "caption": "Publicaciones y redes docentes (genérica). Wikimedia — CC BY-SA."
-      }
-    },
-    {
       "start_date": { "year": "1967" },
       "text": {
         "headline": "José Bleger — Simbiosis y ambigüedad",
@@ -245,9 +230,9 @@
       "group": "Actualidad iberófona",
       "background": { "color": "#334155" },
       "media": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20Varela%20(1996).jpg?width=900",
-        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20Varela%20(1996).jpg?width=320",
-        "caption": "Francisco J. Varela, 1996. Wikimedia — CC BY-SA."
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Francisco_Varela_%28cropped%29.jpg/900px-Francisco_Varela_%28cropped%29.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Francisco_Varela_%28cropped%29.jpg/320px-Francisco_Varela_%28cropped%29.jpg",
+        "caption": "Francisco J. Varela, Dharamsala (1994). Foto: Joan Halifax — CC BY 2.0."
       }
     },
     {
@@ -303,9 +288,9 @@
       "group": "Actualidad iberófona",
       "background": { "color": "#334155" },
       "media": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Facundo%20Manes%2025%20de%20mayo%202022%20(cropped).jpg?width=900",
-        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Facundo%20Manes%2025%20de%20mayo%202022%20(cropped).jpg?width=320",
-        "caption": "Facundo Manes (2022). Wikimedia — CC BY-SA 4.0."
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Facundo_Manes_-_La_Neurociencia_de_la_Creatividad_-_%2827411957132%29.jpg/900px-Facundo_Manes_-_La_Neurociencia_de_la_Creatividad_-_%2827411957132%29.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Facundo_Manes_-_La_Neurociencia_de_la_Creatividad_-_%2827411957132%29.jpg/320px-Facundo_Manes_-_La_Neurociencia_de_la_Creatividad_-_%2827411957132%29.jpg",
+        "caption": "Facundo Manes (2016). Ministerio de Cultura de la Nación — CC BY-SA 2.0."
       }
     },
     {
@@ -339,3 +324,4 @@
     }
   ]
 }
+
