@@ -182,7 +182,7 @@
         "headline": "Alcmeón de Crotona",
         "text": "Propuso que <strong>el cerebro</strong> es la sede del pensamiento y la sensación, en contra del cardiocentrismo. Realizó observaciones anatómicas (nervios ópticos) y comparadas que anticipan un abordaje <em>naturalista</em> de la mente."
       },
-      "group": "Antigüedad",
+      "group": "Orígenes y pre-científica",
       "background": {
         "color": "#0EA5E9"
       },
@@ -200,7 +200,7 @@
         "headline": "Hipócrates",
         "text": "La escuela hipocrática explicó fenómenos psíquicos sin recurso a lo sagrado (<em>Sobre la enfermedad sagrada</em>). Teoría de los <strong>humores</strong> y enfoque clínico que influirá en temperamentos y medicina por siglos."
       },
-      "group": "Antigüedad",
+      "group": "Orígenes y pre-científica",
       "background": {
         "color": "#0EA5E9"
       },
@@ -217,7 +217,7 @@
         "headline": "Platón — Alma tripartita",
         "text": "Modelo de <strong>alma racional–irascible–concupiscible</strong> (Fedro, República). La justicia del alma consiste en el gobierno de la razón; enlaza psicología, ética y política; conocimiento como reminiscencia."
       },
-      "group": "Antigüedad",
+      "group": "Orígenes y pre-científica",
       "background": {
         "color": "#0EA5E9"
       },
@@ -234,7 +234,7 @@
         "headline": "Aristóteles — De anima",
         "text": "Psicología <em>hilomórfica</em>: el alma es la <strong>forma</strong> de un cuerpo vivo. Describe facultades (nutritiva, sensitiva, apetitiva, intelectiva), percepción, memoria y hábito; bases para teorías de <em>asociación</em>."
       },
-      "group": "Antigüedad",
+      "group": "Orígenes y pre-científica",
       "background": {
         "color": "#0EA5E9"
       },
@@ -251,7 +251,7 @@
         "headline": "Galenos",
         "text": "Defendió la primacía del <strong>cerebro y nervios</strong> en sensación y movimiento; modelo de <em>pneuma</em> y ventrículos. Su tipología de <em>temperamentos</em> (colérico, flemático, etc.) marcó medicina y carácter por siglos."
       },
-      "group": "Antigüedad",
+      "group": "Orígenes y pre-científica",
       "background": {
         "color": "#0EA5E9"
       },
@@ -268,7 +268,7 @@
         "headline": "Agustín — Memoria y tiempo interior",
         "text": "En las <em>Confesiones</em> explora la <strong>memoria</strong> y la <strong>conciencia del tiempo</strong> como experiencia interior. Aporta método <em>introspectivo</em> y una psicología de la voluntad y el deseo cristiano."
       },
-      "group": "Edad Media",
+      "group": "Orígenes y pre-científica",
       "background": {
         "color": "#8B5CF6"
       },
@@ -290,7 +290,7 @@
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ibn_al-Haytham.png/320px-Ibn_al-Haytham.png",
         "caption": "Ibn al‑Haytham (Alhacén). Wikimedia Commons — CC BY-SA 4.0."
       },
-      "group": "Edad Media",
+      "group": "Orígenes y pre-científica",
       "background": {
         "color": "#8B5CF6"
       }
@@ -303,7 +303,7 @@
         "headline": "Avicena — Hombre flotante",
         "text": "Experimento mental del <strong>yo</strong> que se afirma sin sensaciones (autoconciencia). Distingue <em>sentidos internos</em> (fantasía, estimativa) y sistematiza facultades psíquicas; su <em>Canon</em> integra clínica y teoría."
       },
-      "group": "Edad Media",
+      "group": "Orígenes y pre-científica",
       "background": {
         "color": "#8B5CF6"
       },
@@ -320,7 +320,7 @@
         "headline": "Tomás de Aquino",
         "text": "Integra a Aristóteles: especies intencionales, <strong>intelecto agente/paciente</strong>, unidad sustancial alma–cuerpo. Explica conocimiento, hábitos y pasiones dentro de una antropología teológica escolástica."
       },
-      "group": "Edad Media",
+      "group": "Orígenes y pre-científica",
       "background": {
         "color": "#8B5CF6"
       },
@@ -337,7 +337,7 @@
         "headline": "Descartes — Dualismo y reflejo",
         "text": "Dualismo <strong>res cogitans / res extensa</strong>. Describe <em>reflejos</em> y fisiología mecanicista; sitúa la glándula pineal como punto de interacción; inaugura el problema mente–cuerpo moderno."
       },
-      "group": "Moderna temprana",
+      "group": "Orígenes y pre-científica",
       "background": {
         "color": "#10B981"
       },
@@ -354,7 +354,7 @@
         "headline": "Hobbes — Leviatán",
         "text": "Materialismo mecanicista: pensamiento e <strong>imaginación</strong> como movimientos del cuerpo. Lenguaje como cómputo; psicología de apetitos y aversiones que fundamenta su teoría política."
       },
-      "group": "Moderna temprana",
+      "group": "Orígenes y pre-científica",
       "background": {
         "color": "#10B981"
       },
@@ -371,7 +371,7 @@
         "headline": "Locke — Tabula rasa",
         "text": "La mente nace como <strong>tabla rasa</strong>. Las ideas provienen de sensación y reflexión; se combinan en ideas complejas; énfasis en <em>asociación</em> e identidad personal."
       },
-      "group": "Moderna temprana",
+      "group": "Orígenes y pre-científica",
       "background": {
         "color": "#10B981"
       },
@@ -388,7 +388,7 @@
         "headline": "Hume — Impresiones e ideas",
         "text": "Todo contenido mental deriva de <strong>impresiones</strong>; las <em>ideas</em> son copias debilitadas. La causalidad es <em>hábito</em>, no necesidad; el yo es un <em>haz</em> de percepciones conectadas."
       },
-      "group": "Ilustración",
+      "group": "Orígenes y pre-científica",
       "background": {
         "color": "#F59E0B"
       },
@@ -405,7 +405,7 @@
         "headline": "Kant — Crítica de la razón pura",
         "text": "Conocimiento como síntesis de <strong>intuiciones a priori</strong> (espacio/tiempo) y <strong>categorías</strong>. Delimita el alcance de la psicología racional y funda condiciones de posibilidad de la experiencia."
       },
-      "group": "Ilustración",
+      "group": "Orígenes y pre-científica",
       "background": {
         "color": "#F59E0B"
       },
@@ -422,7 +422,7 @@
         "headline": "Ernst Weber — Psicofísica",
         "text": "Cuantifica la sensación: <strong>diferencia apenas perceptible</strong> y ley fraccional (Weber). Metodologías experimentales (dos puntos, pesos) que vinculan estímulos físicos y experiencia."
       },
-      "group": "Proto-científica",
+      "group": "Orígenes y pre-científica",
       "background": {
         "color": "#64748B"
       },
@@ -440,7 +440,7 @@
         "headline": "H. von Helmholtz — Percepción y nervio",
         "text": "Mide la <strong>velocidad de conducción nerviosa</strong>; teoría tricromática de color; <em>inferencia inconsciente</em> en percepción. Instrumentación rigurosa que inspira la psicología experimental."
       },
-      "group": "Proto-científica",
+      "group": "Orígenes y pre-científica",
       "background": {
         "color": "#64748B"
       },
@@ -457,7 +457,7 @@
         "headline": "Gustav Fechner — Elementos de psicofísica",
         "text": "Formula la relación <strong>logarítmica</strong> entre estímulo y sensación; consolida la <em>psicofísica</em> como ciencia. Une medición, método y filosofía de mente–cuerpo."
       },
-      "group": "Proto-científica",
+      "group": "Orígenes y pre-científica",
       "background": {
         "color": "#64748B"
       },
@@ -474,7 +474,7 @@
         "headline": "Gustav Fechner — Elementos de psicofísica",
         "text": "Relación <strong>logarítmica</strong> entre estímulo y sensación; consolida la <em>psicofísica</em> como puente entre lo físico y lo mental, con métodos cuantitativos y umbrales."
       },
-      "group": "Fundaciones experimentales",
+      "group": "Fundaciones experimentales y psicometría",
       "background": {
         "color": "#0EA5E9"
       },
@@ -493,7 +493,7 @@
         "headline": "Wilhelm Wundt — Laboratorio de Leipzig",
         "text": "Primer <strong>laboratorio de psicología experimental</strong>. Tiempos de reacción, psicofísica e introspección controlada; institucionaliza la disciplina."
       },
-      "group": "Fundaciones experimentales",
+      "group": "Fundaciones experimentales y psicometría",
       "background": {
         "color": "#0EA5E9"
       },
@@ -511,7 +511,7 @@
         "headline": "Hermann Ebbinghaus — Memoria y olvido",
         "text": "Medición pionera de la memoria con <em>sílabas sin sentido</em>; curvas de <strong>aprendizaje y olvido</strong>; introduce el método de ahorro y diseño intra-sujeto."
       },
-      "group": "Fundaciones experimentales",
+      "group": "Fundaciones experimentales y psicometría",
       "background": {
         "color": "#0EA5E9"
       },
@@ -529,7 +529,7 @@
         "headline": "William James — Principios de psicología",
         "text": "Desarrolla el <strong>funcionalismo</strong>, concibe la conciencia como <em>corriente</em>, introduce hábitos y emociones (James–Lange); puente entre filosofía y ciencia."
       },
-      "group": "Fundaciones experimentales",
+      "group": "Fundaciones experimentales y psicometría",
       "background": {
         "color": "#0EA5E9"
       },
@@ -565,7 +565,7 @@
         "headline": "Iván Pávlov — Reflejo condicionado",
         "text": "Describe el <strong>condicionamiento clásico</strong> (salivación condicionada), metodología controlada y aparato experimental que marcaron la psicología fisiológica."
       },
-      "group": "Conductismo y psicología aplicada",
+      "group": "Conductismo y aplicada",
       "background": {
         "color": "#10B981"
       },
@@ -583,7 +583,7 @@
         "headline": "Juliano Moreira — Reforma psiquiátrica en Brasil",
         "text": "Director del Hospicio Nacional: combate el racismo científico y moderniza la psiquiatría brasileña. Impulsa la atención humanizada y la higiene mental; pionero regional en salud pública."
       },
-      "group": "Clínica y terapias familiares",
+      "group": "Humanismo y clínica",
       "background": {
         "color": "#F59E0B"
       },
@@ -601,7 +601,7 @@
         "headline": "Charles Spearman — Factor g",
         "text": "A partir de correlaciones entre pruebas, postula un <strong>factor general de inteligencia (g)</strong> y métodos estadísticos (correlaciones por rangos)."
       },
-      "group": "Fundaciones experimentales",
+      "group": "Fundaciones experimentales y psicometría",
       "background": {
         "color": "#0EA5E9"
       },
@@ -619,7 +619,7 @@
         "headline": "Alfred Binet — Escala Binet–Simon",
         "text": "Primera <strong>prueba de inteligencia</strong> para uso escolar; introduce <em>edad mental</em> y evaluación estandarizada con fines pedagógicos."
       },
-      "group": "Fundaciones experimentales",
+      "group": "Fundaciones experimentales y psicometría",
       "background": {
         "color": "#0EA5E9"
       },
@@ -637,7 +637,7 @@
         "headline": "Edward L. Thorndike — Ley del efecto",
         "text": "Aprendizaje por <em>ensayo y error</em> en cajas-problema; la <strong>ley del efecto</strong> formaliza el refuerzo como principio básico del comportamiento."
       },
-      "group": "Conductismo y psicología aplicada",
+      "group": "Conductismo y aplicada",
       "background": {
         "color": "#10B981"
       },
@@ -655,7 +655,7 @@
         "headline": "Max Wertheimer — Fenómeno φ",
         "text": "Demuestra la <strong>percepción del movimiento aparente</strong>; inaugura la <em>psicología de la Gestalt</em> y sus leyes de organización perceptual."
       },
-      "group": "Gestalt y fenomenología",
+      "group": "Cognitiva, Gestalt y neuro",
       "background": {
         "color": "#F59E0B"
       },
@@ -673,7 +673,7 @@
         "headline": "John B. Watson — Manifiesto conductista",
         "text": "Programa para una psicología <strong>objetiva</strong> de la conducta, anti-introspectiva; predicción y control como metas, método experimental con estímulo-respuesta."
       },
-      "group": "Conductismo y psicología aplicada",
+      "group": "Conductismo y aplicada",
       "background": {
         "color": "#10B981"
       },
@@ -691,7 +691,7 @@
         "headline": "Wolfgang Köhler — Insight en primates",
         "text": "Observa <strong>soluciones súbitas</strong> (insight) en chimpancés; evidencia organización de campo y crítica al <em>asociacionismo</em> mecánico."
       },
-      "group": "Gestalt y fenomenología",
+      "group": "Cognitiva, Gestalt y neuro",
       "background": {
         "color": "#F59E0B"
       },
@@ -709,7 +709,7 @@
         "headline": "José Ingenieros — Positivismo crítico y cátedras",
         "text": "Difunde una psicología inspirada en ciencia y reforma social. Articula criminología, higiene mental y educación; activa redes intelectuales rioplatenses que profesionalizan la disciplina."
       },
-      "group": "Fundaciones e institucionalización",
+      "group": "Fundaciones experimentales y psicometría",
       "background": {
         "color": "#0EA5E9"
       },
@@ -746,7 +746,7 @@
         "headline": "Aníbal Ponce — Educación y lucha social",
         "text": "Integra marxismo, psicología y pedagogía. Analiza la formación del carácter bajo condiciones históricas; propone una educación emancipadora con base en la crítica social."
       },
-      "group": "Psicología social y educación crítica",
+      "group": "Humanismo y clínica",
       "background": {
         "color": "#10B981"
       },
@@ -765,7 +765,7 @@
         "headline": "David Wechsler — Baterías WAIS/WISC",
         "text": "Diseña pruebas de <strong>inteligencia</strong> con puntuaciones compuestas e índices, integrando <em>subtests</em> verbales y de ejecución; estándares clínicos hasta hoy."
       },
-      "group": "Conductismo y psicología aplicada",
+      "group": "Fundaciones experimentales y psicometría",
       "background": {
         "color": "#10B981"
       },
@@ -783,7 +783,7 @@
         "headline": "Ángel Garma — Fundación de la APA",
         "text": "Cofunda la Asociación Psicoanalítica Argentina y consolida la clínica psicoanalítica local. Impulsa formación y supervisión sistemáticas; la APA deviene centro regional."
       },
-      "group": "Psicoanálisis rioplatense",
+      "group": "Psicoanálisis",
       "background": {
         "color": "#8B5CF6"
       },
@@ -801,7 +801,7 @@
         "headline": "D. O. Hebb — Organización del comportamiento",
         "text": "Propone la <strong>regla de Hebb</strong> (neuronas que se activan juntas, se conectan juntas) y redes celulares; base neuropsicológica del aprendizaje."
       },
-      "group": "Revolución cognitiva y neurociencias",
+      "group": "Cognitiva, Gestalt y neuro",
       "background": {
         "color": "#64748B"
       },
@@ -819,7 +819,7 @@
         "headline": "Arminda Aberastury — Psicoanálisis infantil",
         "text": "Adapta la técnica kleiniana y forma generaciones en clínica de niños. Enfatiza juego, transferencia y manejo de la angustia temprana; contribuye a la institucionalización del área."
       },
-      "group": "Psicoanálisis rioplatense",
+      "group": "Psicoanálisis",
       "background": {
         "color": "#8B5CF6"
       },
@@ -837,7 +837,7 @@
         "headline": "Carl Rogers — Terapia centrada en la persona",
         "text": "Propone una psicoterapia basada en <strong>empatía, congruencia y aceptación incondicional</strong>; modelo <em>humanista</em> y enfoque de crecimiento."
       },
-      "group": "Humanismo",
+      "group": "Humanismo y clínica",
       "background": {
         "color": "#EC4899"
       },
@@ -855,7 +855,7 @@
         "headline": "Marie Langer — Clínica, género y exilio",
         "text": "Figura clave de la APA y del movimiento psicoanalítico. Cruza clínica, militancia y género; sus trabajos circulan en redes latinoamericanas y en el exilio centroamericano."
       },
-      "group": "Psicoanálisis rioplatense",
+      "group": "Psicoanálisis",
       "background": {
         "color": "#8B5CF6"
       },
@@ -873,7 +873,7 @@
         "headline": "Nise da Silveira — Arte y psicoterapia",
         "text": "Funda el Museo de las Imágenes del Inconsciente en Río. Sustituye métodos agresivos por talleres expresivos; integra arte, clínica y comunidad, cambiando prácticas en salud mental."
       },
-      "group": "Clínica y terapias familiares",
+      "group": "Humanismo y clínica",
       "background": {
         "color": "#F59E0B"
       },
@@ -891,7 +891,7 @@
         "headline": "B. F. Skinner — Ciencia y conducta",
         "text": "Desarrolla el <strong>condicionamiento operante</strong>, programas de refuerzo y <em>análisis experimental de la conducta</em>; aplicaciones educativas y clínicas."
       },
-      "group": "Conductismo y psicología aplicada",
+      "group": "Conductismo y aplicada",
       "background": {
         "color": "#10B981"
       },
@@ -909,7 +909,7 @@
         "headline": "Enrique Pichon-Rivière — Grupos operativos",
         "text": "Desarrolla la teoría y técnica de <strong>grupos operativos</strong>. La tarea, el portavoz y la malla vincular orientan clínica y educación; origen de la psicología social argentina."
       },
-      "group": "Psicología social y educación crítica",
+      "group": "Humanismo y clínica",
       "background": {
         "color": "#10B981"
       },
@@ -928,7 +928,7 @@
         "headline": "Abraham Maslow — Jerarquía de necesidades",
         "text": "Modelo motivacional en <strong>niveles</strong> (fisiológicas→autorrealización); inspira psicología <em>humanista</em> y gestión organizacional."
       },
-      "group": "Humanismo",
+      "group": "Humanismo y clínica",
       "background": {
         "color": "#EC4899"
       },
@@ -946,7 +946,7 @@
         "headline": "George A. Miller — 7±2 y memoria",
         "text": "Fija un límite de <strong>capacidad</strong> de la memoria inmediata (7±2) y estimula la <em>codificación por agrupamiento</em>; hito de la revolución cognitiva."
       },
-      "group": "Revolución cognitiva y neurociencias",
+      "group": "Cognitiva, Gestalt y neuro",
       "background": {
         "color": "#64748B"
       },
@@ -964,7 +964,7 @@
         "headline": "Noam Chomsky — Crítica al conductismo",
         "text": "Argumenta una <strong>gramática generativa</strong> con reglas abstractas e <em>innatismo</em>; cuestiona el aprendizaje por refuerzo del lenguaje."
       },
-      "group": "Revolución cognitiva y neurociencias",
+      "group": "Cognitiva, Gestalt y neuro",
       "background": {
         "color": "#64748B"
       },
@@ -982,7 +982,7 @@
         "headline": "Ulric Neisser — Psicología cognitiva",
         "text": "Define el programa <strong>cognitivista</strong>: representación, atención, memoria y percepción como <em>procesamiento de información</em>; integra evidencia experimental."
       },
-      "group": "Revolución cognitiva y neurociencias",
+      "group": "Cognitiva, Gestalt y neuro",
       "background": {
         "color": "#64748B"
       },
@@ -1000,7 +1000,7 @@
         "headline": "José Bleger — Simbiosis y ambigüedad",
         "text": "Integra psicoanálisis, psicología social y organizaciones. Su noción de <em>lo glischro-cárico</em> y la <strong>ambigüedad</strong> orienta clínica, grupos e instituciones."
       },
-      "group": "Psicoanálisis rioplatense",
+      "group": "Psicoanálisis",
       "background": {
         "color": "#8B5CF6"
       },
@@ -1018,7 +1018,7 @@
         "headline": "Paulo Freire — Pedagogía del oprimido",
         "text": "Propone alfabetización dialógica y <strong>concientización</strong>. Su enfoque crítico nutre la psicología comunitaria y la praxis transformadora en América Latina."
       },
-      "group": "Psicología social y educación crítica",
+      "group": "Humanismo y clínica",
       "background": {
         "color": "#10B981"
       },
@@ -1036,7 +1036,7 @@
         "headline": "Arnaldo Rascovsky — Clínica y filicidio",
         "text": "Aporta a la metapsicología del <strong>filicidio</strong> y a la organización institucional del psicoanálisis argentino. Referente técnico y teórico en el Río de la Plata."
       },
-      "group": "Psicoanálisis rioplatense",
+      "group": "Psicoanálisis",
       "background": {
         "color": "#8B5CF6"
       },
@@ -1054,7 +1054,7 @@
         "headline": "Salvador Minuchin — Terapia familiar estructural",
         "text": "Desde su experiencia con comunidades, formaliza <strong>estructura familiar, límites y subsistemas</strong>. Impacto duradero en clínica sistémica latinoamericana."
       },
-      "group": "Clínica y terapias familiares",
+      "group": "Humanismo y clínica",
       "background": {
         "color": "#F59E0B"
       },
@@ -1072,7 +1072,7 @@
         "headline": "Ignacio Martín-Baró — Psicología de la liberación",
         "text": "Desde Centroamérica, formula una psicología orientada a <strong>desideologizar</strong> y vincularse con comunidades oprimidas. Crea categorías situadas y critica el universalismo."
       },
-      "group": "Psicología social y educación crítica",
+      "group": "Humanismo y clínica",
       "background": {
         "color": "#10B981"
       },
@@ -1091,7 +1091,7 @@
         "headline": "fMRI — Neuroimagen funcional",
         "text": "La <strong>resonancia magnética funcional</strong> permite mapear actividad cerebral por cambios hemodinámicos; expande la investigación cognitiva y clínica."
       },
-      "group": "Revolución cognitiva y neurociencias",
+      "group": "Cognitiva, Gestalt y neuro",
       "background": {
         "color": "#64748B"
       },
@@ -1110,7 +1110,7 @@
         "headline": "Francisco Varela — Neurofenomenología",
         "text": "Propone un diálogo entre <strong>neurociencia</strong> y <em>fenomenología</em> para estudiar la experiencia en primera persona junto con medidas objetivas. Influye en ciencia cognitiva y estudios de la conciencia."
       },
-      "group": "Actualidad iberófona",
+      "group": "Cognitiva, Gestalt y neuro",
       "background": {
         "color": "#334155"
       },
@@ -1129,7 +1129,7 @@
         "headline": "Juan-David Nasio — Clínica y divulgación lacaniana",
         "text": "Difunde el psicoanálisis <strong>lacaniano</strong> en lengua española con obra clínica y didáctica; articulación entre práctica, enseñanza y acceso amplio a conceptos técnicos."
       },
-      "group": "Actualidad iberófona",
+      "group": "Psicoanálisis",
       "background": {
         "color": "#334155"
       },
@@ -1147,7 +1147,7 @@
         "headline": "Antonio M. Battro — Neuroeducación y tecnología",
         "text": "Conecta <strong>cognición, neurociencia y aprendizaje digital</strong> en proyectos regionales de inclusión educativa. Difunde el enfoque de neuroeducación aplicado."
       },
-      "group": "Cognición, neuro y educación digital",
+      "group": "Cognitiva, Gestalt y neuro",
       "background": {
         "color": "#64748B"
       },
@@ -1165,7 +1165,7 @@
         "headline": "Silvia Bleichmar — Subjetividad y clínica ampliada",
         "text": "Desde un psicoanálisis crítico, examina <strong>subjetividad y lazo social</strong> en contextos de exclusión. Incide en campos de infancia, educación y políticas públicas."
       },
-      "group": "Psicoanálisis rioplatense",
+      "group": "Psicoanálisis",
       "background": {
         "color": "#8B5CF6"
       },
@@ -1184,7 +1184,7 @@
         "headline": "Facundo Manes — Neurociencia aplicada",
         "text": "Impulsa la divulgación y la <strong>aplicación clínica</strong> de la neurociencia cognitiva en la región: memoria, toma de decisiones y salud cerebral en poblaciones amplias."
       },
-      "group": "Actualidad iberófona",
+      "group": "Cognitiva, Gestalt y neuro",
       "background": {
         "color": "#334155"
       },
@@ -1202,7 +1202,7 @@
         "headline": "Jorge Alemán — Psicoanálisis y política",
         "text": "Explora cruces entre <strong>sujeto</strong>, <em>discurso</em> y lazo social desde una lectura lacaniana contemporánea; intervenciones públicas y ensayos que inciden en debate cultural iberoamericano."
       },
-      "group": "Actualidad iberófona",
+      "group": "Psicoanálisis",
       "background": {
         "color": "#334155"
       },
@@ -1221,7 +1221,7 @@
         "headline": "Néstor Braunstein — Clínica y crítica",
         "text": "Referencia del psicoanálisis en México y el Cono Sur; textos sobre <strong>deseo</strong>, <em>cuerpo</em> y cultura que actualizan problemas metapsicológicos y formativos."
       },
-      "group": "Actualidad iberófona",
+      "group": "Psicoanálisis",
       "background": {
         "color": "#334155"
       },
