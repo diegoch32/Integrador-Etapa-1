@@ -89,23 +89,9 @@
       "group": "Psicoanálisis rioplatense",
       "background": { "color": "#8B5CF6" },
       "media": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%81ngel%20Garma.jpg?width=900",
-        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%81ngel%20Garma.jpg?width=320",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Angel%20Garma.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Angel%20Garma.jpg?width=320",
         "caption": "Ángel Garma. Wikimedia — Dominio público."
-      }
-    },
-    {
-      "start_date": { "year": "1952" },
-      "text": {
-        "headline": "Nise da Silveira — Arte y psicoterapia",
-        "text": "Funda el Museo de las Imágenes del Inconsciente en Río. Sustituye métodos agresivos por talleres expresivos; integra arte, clínica y comunidad, cambiando prácticas en salud mental."
-      },
-      "group": "Clínica y terapias familiares",
-      "background": { "color": "#F59E0B" },
-      "media": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nise%20da%20Silveira.jpg?width=900",
-        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Nise%20da%20Silveira.jpg?width=320",
-        "caption": "Nise da Silveira. Wikimedia — Dominio público (Brasil)."
       }
     },
     {
@@ -137,6 +123,20 @@
       }
     },
     {
+      "start_date": { "year": "1952" },
+      "text": {
+        "headline": "Nise da Silveira — Arte y psicoterapia",
+        "text": "Funda el Museo de las Imágenes del Inconsciente en Río. Sustituye métodos agresivos por talleres expresivos; integra arte, clínica y comunidad, cambiando prácticas en salud mental."
+      },
+      "group": "Clínica y terapias familiares",
+      "background": { "color": "#F59E0B" },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nise%20da%20Silveira.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Nise%20da%20Silveira.jpg?width=320",
+        "caption": "Nise da Silveira. Wikimedia — Dominio público (Brasil)."
+      }
+    },
+    {
       "start_date": { "year": "1953" },
       "text": {
         "headline": "Enrique Pichon-Rivière — Grupos operativos",
@@ -148,6 +148,21 @@
         "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pichonriviere.jpg?width=900",
         "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Pichonriviere.jpg?width=320",
         "caption": "Enrique Pichon-Rivière. Wikimedia — CC BY-SA."
+      }
+    },
+    {
+      "start_date": { "year": "1951" },
+      "display_date": "1951–1965",
+      "text": {
+        "headline": "Redes clínicas y formación en la región",
+        "text": "Se afianzan <strong>institutos, revistas y seminarios</strong> en Buenos Aires, Montevideo, Santiago y São Paulo. Circulan técnicas y se consolida la formación supervisada."
+      },
+      "group": "Fundaciones e institucionalización",
+      "background": { "color": "#0EA5E9" },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Books-aj.svg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Books-aj.svg?width=320",
+        "caption": "Publicaciones y redes docentes (genérica). Wikimedia — CC BY-SA."
       }
     },
     {
@@ -174,8 +189,22 @@
       "background": { "color": "#10B981" },
       "media": {
         "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paulo%20Freire%201977%20(cropped).jpg?width=900",
-        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Paulo%20Freire%201977%20(cropped).jpg?width=320",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Paulo%20Freire%20177%20(cropped).jpg?width=320",
         "caption": "Paulo Freire (1977). Wikimedia — CC BY-SA."
+      }
+    },
+    {
+      "start_date": { "year": "1973" },
+      "text": {
+        "headline": "Arnaldo Rascovsky — Clínica y filicidio",
+        "text": "Aporta a la metapsicología del <strong>filicidio</strong> y a la organización institucional del psicoanálisis argentino. Referente técnico y teórico en el Río de la Plata."
+      },
+      "group": "Psicoanálisis rioplatense",
+      "background": { "color": "#8B5CF6" },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arnaldo%20Rascovsky.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Arnaldo%20Rascovsky.jpg?width=320",
+        "caption": "Arnaldo Rascovsky. Wikimedia — CC BY-SA."
       }
     },
     {
@@ -207,17 +236,33 @@
       }
     },
     {
-      "start_date": { "year": "1973" },
+      "start_date": { "year": "1996" },
+      "display_date": "1996",
       "text": {
-        "headline": "Arnaldo Rascovsky — Clínica y filicidio",
-        "text": "Aporta a la metapsicología del <strong>filicidio</strong> y a la organización institucional del psicoanálisis argentino. Referente técnico y teórico en el Río de la Plata."
+        "headline": "Francisco Varela — Neurofenomenología",
+        "text": "Propone un diálogo entre <strong>neurociencia</strong> y <em>fenomenología</em> para estudiar la experiencia en primera persona junto con medidas objetivas. Influye en ciencia cognitiva y estudios de la conciencia."
       },
-      "group": "Psicoanálisis rioplatense",
-      "background": { "color": "#8B5CF6" },
+      "group": "Actualidad iberófona",
+      "background": { "color": "#334155" },
       "media": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arnaldo%20Rascovsky.jpg?width=900",
-        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Arnaldo%20Rascovsky.jpg?width=320",
-        "caption": "Arnaldo Rascovsky. Wikimedia — CC BY-SA."
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20Varela%20(1996).jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20Varela%20(1996).jpg?width=320",
+        "caption": "Francisco J. Varela, 1996. Wikimedia — CC BY-SA."
+      }
+    },
+    {
+      "start_date": { "year": "2000" },
+      "display_date": "2000–2025",
+      "text": {
+        "headline": "Juan-David Nasio — Clínica y divulgación lacaniana",
+        "text": "Difunde el psicoanálisis <strong>lacaniano</strong> en lengua española con obra clínica y didáctica; articulación entre práctica, enseñanza y acceso amplio a conceptos técnicos."
+      },
+      "group": "Actualidad iberófona",
+      "background": { "color": "#334155" },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/J.-D.%20NASIO.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/J.-D.%20NASIO.jpg?width=320",
+        "caption": "Juan-David Nasio (2017). Wikimedia — CC BY-SA 4.0."
       }
     },
     {
@@ -249,18 +294,47 @@
       }
     },
     {
-      "start_date": { "year": "1951" },
-      "display_date": "1951–1965",
+      "start_date": { "year": "2010" },
+      "display_date": "2010–2025",
       "text": {
-        "headline": "Redes clínicas y formación en la región",
-        "text": "Se afianzan <strong>institutos, revistas y seminarios</strong> en Buenos Aires, Montevideo, Santiago y São Paulo. Circulan técnicas y se consolida la formación supervisada."
+        "headline": "Facundo Manes — Neurociencia aplicada",
+        "text": "Impulsa la divulgación y la <strong>aplicación clínica</strong> de la neurociencia cognitiva en la región: memoria, toma de decisiones y salud cerebral en poblaciones amplias."
       },
-      "group": "Fundaciones e institucionalización",
-      "background": { "color": "#0EA5E9" },
+      "group": "Actualidad iberófona",
+      "background": { "color": "#334155" },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Wiki_letter_w.svg/900px-Wiki_letter_w.svg.png",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Wiki_letter_w.svg/320px-Wiki_letter_w.svg.png",
-        "caption": "Publicaciones y redes (genérica). Wikimedia — CC BY-SA."
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Facundo%20Manes%2025%20de%20mayo%202022%20(cropped).jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Facundo%20Manes%2025%20de%20mayo%202022%20(cropped).jpg?width=320",
+        "caption": "Facundo Manes (2022). Wikimedia — CC BY-SA 4.0."
+      }
+    },
+    {
+      "start_date": { "year": "2015" },
+      "text": {
+        "headline": "Jorge Alemán — Psicoanálisis y política",
+        "text": "Explora cruces entre <strong>sujeto</strong>, <em>discurso</em> y lazo social desde una lectura lacaniana contemporánea; intervenciones públicas y ensayos que inciden en debate cultural iberoamericano."
+      },
+      "group": "Actualidad iberófona",
+      "background": { "color": "#334155" },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jorge%20Alem%C3%A1n%20-%20Conferencia%20de%20prensa%20por%20el%20Foro%20Internacional%20por%20la%20Emancipaci%C3%B3n%20y%20la%20Igualdad%20(16802014621).jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Jorge%20Alem%C3%A1n%20-%20Conferencia%20de%20prensa%20por%20el%20Foro%20Internacional%20por%20la%20Emancipaci%C3%B3n%20y%20la%20Igualdad%20(16802014621).jpg?width=320",
+        "caption": "Jorge Alemán (2015). Wikimedia — CC BY-SA 2.0."
+      }
+    },
+    {
+      "start_date": { "year": "2018" },
+      "display_date": "2000s–2022",
+      "text": {
+        "headline": "Néstor Braunstein — Clínica y crítica",
+        "text": "Referencia del psicoanálisis en México y el Cono Sur; textos sobre <strong>deseo</strong>, <em>cuerpo</em> y cultura que actualizan problemas metapsicológicos y formativos."
+      },
+      "group": "Actualidad iberófona",
+      "background": { "color": "#334155" },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nestorbraunstein.JPG?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Nestorbraunstein.JPG?width=320",
+        "caption": "Néstor A. Braunstein. Wikimedia — CC BY-SA."
       }
     }
   ]
