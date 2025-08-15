@@ -1,0 +1,267 @@
+{
+  "title": {
+    "text": {
+      "headline": "Proyecto Integrador Etapa 3 — Psicología en América Latina (siglos XX–XXI)",
+      "text": "De las fundaciones e institucionalización al giro social, comunitario y clínico en la región (1900–2020)."
+    }
+  },
+  "eras": [
+    {
+      "start_date": { "year": "1900" },
+      "end_date": { "year": "1945" },
+      "text": { "headline": "Fundaciones e institucionalización" },
+      "background": { "color": "#0EA5E9" }
+    },
+    {
+      "start_date": { "year": "1940" },
+      "end_date": { "year": "1965" },
+      "text": { "headline": "Psicoanálisis rioplatense" },
+      "background": { "color": "#8B5CF6" }
+    },
+    {
+      "start_date": { "year": "1960" },
+      "end_date": { "year": "1985" },
+      "text": { "headline": "Psicología social y educación crítica" },
+      "background": { "color": "#10B981" }
+    },
+    {
+      "start_date": { "year": "1965" },
+      "end_date": { "year": "1990" },
+      "text": { "headline": "Clínica y terapias familiares" },
+      "background": { "color": "#F59E0B" }
+    },
+    {
+      "start_date": { "year": "1990" },
+      "end_date": { "year": "2020" },
+      "text": { "headline": "Cognición, neuro y educación digital" },
+      "background": { "color": "#64748B" }
+    }
+  ],
+  "events": [
+    {
+      "start_date": { "year": "1903" },
+      "text": {
+        "headline": "Juliano Moreira — Reforma psiquiátrica en Brasil",
+        "text": "Director del Hospicio Nacional: combate el racismo científico y moderniza la psiquiatría brasileña. Impulsa la atención humanizada y la higiene mental; pionero regional en salud pública."
+      },
+      "group": "Clínica y terapias familiares",
+      "background": { "color": "#F59E0B" },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Juliano%20Moreira.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Juliano%20Moreira.jpg?width=320",
+        "caption": "Juliano Moreira. Wikimedia — Dominio público."
+      }
+    },
+    {
+      "start_date": { "year": "1918" },
+      "text": {
+        "headline": "José Ingenieros — Positivismo crítico y cátedras",
+        "text": "Difunde una psicología inspirada en ciencia y reforma social. Articula criminología, higiene mental y educación; activa redes intelectuales rioplatenses que profesionalizan la disciplina."
+      },
+      "group": "Fundaciones e institucionalización",
+      "background": { "color": "#0EA5E9" },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/JoseIngenieros001.JPG?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/JoseIngenieros001.JPG?width=320",
+        "caption": "José Ingenieros. Archivo General de la Nación — Dominio público."
+      }
+    },
+    {
+      "start_date": { "year": "1934" },
+      "text": {
+        "headline": "Aníbal Ponce — Educación y lucha social",
+        "text": "Integra marxismo, psicología y pedagogía. Analiza la formación del carácter bajo condiciones históricas; propone una educación emancipadora con base en la crítica social."
+      },
+      "group": "Psicología social y educación crítica",
+      "background": { "color": "#10B981" },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A%20Ponce.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/A%20Ponce.jpg?width=320",
+        "caption": "Aníbal Ponce. Wikimedia — Dominio público."
+      }
+    },
+    {
+      "start_date": { "year": "1942" },
+      "text": {
+        "headline": "Ángel Garma — Fundación de la APA",
+        "text": "Cofunda la Asociación Psicoanalítica Argentina y consolida la clínica psicoanalítica local. Impulsa formación y supervisión sistemáticas; la APA deviene centro regional."
+      },
+      "group": "Psicoanálisis rioplatense",
+      "background": { "color": "#8B5CF6" },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%81ngel%20Garma.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%81ngel%20Garma.jpg?width=320",
+        "caption": "Ángel Garma. Wikimedia — Dominio público."
+      }
+    },
+    {
+      "start_date": { "year": "1952" },
+      "text": {
+        "headline": "Nise da Silveira — Arte y psicoterapia",
+        "text": "Funda el Museo de las Imágenes del Inconsciente en Río. Sustituye métodos agresivos por talleres expresivos; integra arte, clínica y comunidad, cambiando prácticas en salud mental."
+      },
+      "group": "Clínica y terapias familiares",
+      "background": { "color": "#F59E0B" },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nise%20da%20Silveira.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Nise%20da%20Silveira.jpg?width=320",
+        "caption": "Nise da Silveira. Wikimedia — Dominio público (Brasil)."
+      }
+    },
+    {
+      "start_date": { "year": "1950" },
+      "text": {
+        "headline": "Arminda Aberastury — Psicoanálisis infantil",
+        "text": "Adapta la técnica kleiniana y forma generaciones en clínica de niños. Enfatiza juego, transferencia y manejo de la angustia temprana; contribuye a la institucionalización del área."
+      },
+      "group": "Psicoanálisis rioplatense",
+      "background": { "color": "#8B5CF6" },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arminda%20Aberastury.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Arminda%20Aberastury.jpg?width=320",
+        "caption": "Arminda Aberastury. Wikimedia — CC BY-SA."
+      }
+    },
+    {
+      "start_date": { "year": "1951" },
+      "text": {
+        "headline": "Marie Langer — Clínica, género y exilio",
+        "text": "Figura clave de la APA y del movimiento psicoanalítico. Cruza clínica, militancia y género; sus trabajos circulan en redes latinoamericanas y en el exilio centroamericano."
+      },
+      "group": "Psicoanálisis rioplatense",
+      "background": { "color": "#8B5CF6" },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Langer79.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Langer79.jpg?width=320",
+        "caption": "Marie Langer. Wikimedia — CC BY-SA."
+      }
+    },
+    {
+      "start_date": { "year": "1953" },
+      "text": {
+        "headline": "Enrique Pichon-Rivière — Grupos operativos",
+        "text": "Desarrolla la teoría y técnica de <strong>grupos operativos</strong>. La tarea, el portavoz y la malla vincular orientan clínica y educación; origen de la psicología social argentina."
+      },
+      "group": "Psicología social y educación crítica",
+      "background": { "color": "#10B981" },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pichonriviere.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Pichonriviere.jpg?width=320",
+        "caption": "Enrique Pichon-Rivière. Wikimedia — CC BY-SA."
+      }
+    },
+    {
+      "start_date": { "year": "1967" },
+      "text": {
+        "headline": "José Bleger — Simbiosis y ambigüedad",
+        "text": "Integra psicoanálisis, psicología social y organizaciones. Su noción de <em>lo glischro-cárico</em> y la <strong>ambigüedad</strong> orienta clínica, grupos e instituciones."
+      },
+      "group": "Psicoanálisis rioplatense",
+      "background": { "color": "#8B5CF6" },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Bleger.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Bleger.jpg?width=320",
+        "caption": "José Bleger. Wikimedia — CC BY-SA."
+      }
+    },
+    {
+      "start_date": { "year": "1970" },
+      "text": {
+        "headline": "Paulo Freire — Pedagogía del oprimido",
+        "text": "Propone alfabetización dialógica y <strong>concientización</strong>. Su enfoque crítico nutre la psicología comunitaria y la praxis transformadora en América Latina."
+      },
+      "group": "Psicología social y educación crítica",
+      "background": { "color": "#10B981" },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paulo%20Freire%201977%20(cropped).jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Paulo%20Freire%201977%20(cropped).jpg?width=320",
+        "caption": "Paulo Freire (1977). Wikimedia — CC BY-SA."
+      }
+    },
+    {
+      "start_date": { "year": "1974" },
+      "text": {
+        "headline": "Salvador Minuchin — Terapia familiar estructural",
+        "text": "Desde su experiencia con comunidades, formaliza <strong>estructura familiar, límites y subsistemas</strong>. Impacto duradero en clínica sistémica latinoamericana."
+      },
+      "group": "Clínica y terapias familiares",
+      "background": { "color": "#F59E0B" },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Salvador%20Minuchin%20(2013).jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Salvador%20Minuchin%20(2013).jpg?width=320",
+        "caption": "Salvador Minuchin. Wikimedia — CC BY-SA."
+      }
+    },
+    {
+      "start_date": { "year": "1986" },
+      "text": {
+        "headline": "Ignacio Martín-Baró — Psicología de la liberación",
+        "text": "Desde Centroamérica, formula una psicología orientada a <strong>desideologizar</strong> y vincularse con comunidades oprimidas. Crea categorías situadas y critica el universalismo."
+      },
+      "group": "Psicología social y educación crítica",
+      "background": { "color": "#10B981" },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ignacio%20Mart%C3%ADn-Bar%C3%B3.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Ignacio%20Mart%C3%ADn-Bar%C3%B3.jpg?width=320",
+        "caption": "Ignacio Martín-Baró. Wikimedia — (licencia según ficha)."
+      }
+    },
+    {
+      "start_date": { "year": "1973" },
+      "text": {
+        "headline": "Arnaldo Rascovsky — Clínica y filicidio",
+        "text": "Aporta a la metapsicología del <strong>filicidio</strong> y a la organización institucional del psicoanálisis argentino. Referente técnico y teórico en el Río de la Plata."
+      },
+      "group": "Psicoanálisis rioplatense",
+      "background": { "color": "#8B5CF6" },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arnaldo%20Rascovsky.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Arnaldo%20Rascovsky.jpg?width=320",
+        "caption": "Arnaldo Rascovsky. Wikimedia — CC BY-SA."
+      }
+    },
+    {
+      "start_date": { "year": "2004" },
+      "text": {
+        "headline": "Antonio M. Battro — Neuroeducación y tecnología",
+        "text": "Conecta <strong>cognición, neurociencia y aprendizaje digital</strong> en proyectos regionales de inclusión educativa. Difunde el enfoque de neuroeducación aplicado."
+      },
+      "group": "Cognición, neuro y educación digital",
+      "background": { "color": "#64748B" },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20M.%20Battro.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20M.%20Battro.jpg?width=320",
+        "caption": "Antonio M. Battro. Wikimedia — CC BY-SA 4.0."
+      }
+    },
+    {
+      "start_date": { "year": "2005" },
+      "text": {
+        "headline": "Silvia Bleichmar — Subjetividad y clínica ampliada",
+        "text": "Desde un psicoanálisis crítico, examina <strong>subjetividad y lazo social</strong> en contextos de exclusión. Incide en campos de infancia, educación y políticas públicas."
+      },
+      "group": "Psicoanálisis rioplatense",
+      "background": { "color": "#8B5CF6" },
+      "media": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Silvia%20Bleichmar.jpg?width=900",
+        "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Silvia%20Bleichmar.jpg?width=320",
+        "caption": "Silvia Bleichmar. Wikimedia — CC BY-SA/GFDL."
+      }
+    },
+    {
+      "start_date": { "year": "1951" },
+      "display_date": "1951–1965",
+      "text": {
+        "headline": "Redes clínicas y formación en la región",
+        "text": "Se afianzan <strong>institutos, revistas y seminarios</strong> en Buenos Aires, Montevideo, Santiago y São Paulo. Circulan técnicas y se consolida la formación supervisada."
+      },
+      "group": "Fundaciones e institucionalización",
+      "background": { "color": "#0EA5E9" },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Wiki_letter_w.svg/900px-Wiki_letter_w.svg.png",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Wiki_letter_w.svg/320px-Wiki_letter_w.svg.png",
+        "caption": "Publicaciones y redes (genérica). Wikimedia — CC BY-SA."
+      }
+    }
+  ]
+}
